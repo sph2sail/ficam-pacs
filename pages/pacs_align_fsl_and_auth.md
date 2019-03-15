@@ -111,7 +111,7 @@ FIPS 201-2 specifies these authentication mechanisms for PIV credentials:
 
 The table below gives the possible authentication mechanisms for the 3 security area categories.
 
-| Category  | Minimum<br>Number of<br>Factors | Acceptable Factors | Authentication Mechanism:<br>Contact Interface  |  Authentication Mechanism:<br>Contactless Interface |
+| Category  | Minimum<br>Number of<br>Factors | Acceptable Factors | Authentication<br>Mechanism:<br>Contact Interface  |  Authentication Mechanism:<br>Contactless Interface |
 | :-------- | :------: | :----- | :-----  | :-----     |
 | *Controlled*   | 1 | Something you have **OR**<br>Something you are  |  PKI-CAK  | PKI-CAK<br> SYM-CAK   |
 | *Limited*   | 2 |Something you have *AND*<br>Something you know, **OR**<br>Something you have *AND*<br>Something you are, **OR**<br>Something you know *AND*<br>Something you are  | PKI-AUTH (with PIN or OCC) or<br>OCC-AUTH  |  OCC-AUTH |
