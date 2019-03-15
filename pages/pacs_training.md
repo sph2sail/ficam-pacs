@@ -4,71 +4,75 @@ title: Training
 permalink: /train/
 ---
 
-Training is a critical component of all FIPS 201-compliant Enterprise Physical Access Control System (E-PACS) implementations. This page outlines E-PACS personnel roles and responsibilities, and lists relevant training and certification programs. 
+Specialized training is essential for Enterprise PACS (E-PACS) technical leads and team members. This page describes roles and responsibilities and training opportunities.
+
+* [Technical Roles and Responsibilities](#technical-roles-and-responsibilities)
+* [Recommended Technical Training](#recommended-technical-training)
+* [Training Opportunities](#training-opportunities)
 
 ## Technical Roles and Responsibilities
 
-E-PACS project teams consist of both agency employees and contractors. Teams should include Technicians, Operators, Engineers, and Architects to deploy and maintain an E-PACS. Teams may include support from specialists in project management, system administration, physical security, facility management, acquisitions, budget, law, etc.
+E-PACS project teams consist of both agency employees and contractors. Technical teams include an IT Architect, Network Engineers, Technicians, Operators, System Administrators, Physical Security Specialists, Facility Managers, a variety of technical services team members, etc. 
 
-| Role | Description |
-|------|-------------| 
-| Technicians | Responsible for the installation, administration, and maintenance of system components. |
-| Operators | Responsible for using the system to perform physical security functions such as providing access privileges to credentials and responding to system generated events and alarms.|
-| Engineers | Responsible for making configuration recommendations and advise on system-wide improvements, optimization, testing, and deployment or maintenance efforts.|
-| Architects | Have extensive experience and are responsible for providing technical direction for problem definition, analysis, requirements development, design and implementation of solution delivery|
+| Technical Role | Responsibilities |
+|:------|:-------------| 
+| IT Architect | Defines the project's technical activities according to the project scope and requirements; conducts further analysis and design, as required; and directs the implementation of an E-PACS solution. |
+| Network Engineer | Makes configuration recommendations and advises IT Architect about enterprise-wide/network improvements, optimization, testing, deployment, and maintenance.|
+| Technician | Installs, administers, and maintains network and system components. |
+| Operator | Uses physical security functions (e.g., sets access privileges, takes actions to resolve system-generated events and alarms).|
 
-{% include alert-info.html content="Technicians are typically contractors. Operators, Engineers, and Architects can be agency employees and/or contractors." %}
+
+{% include alert-info.html content="IT Architects, Network Engineers, and Operators may be federal employees and/or contractors. Technicians are typically contractors." %}
+
+{% include alert-info.html content="Teams will also include an E-PACS Project Manager, Procurements Official or Specialist, project management specialists, budget analysts, lawyer(s), etc.
 
 <br>
 
-## Recommended Training
-
-Training recommendations align with the different responsibilities for each role. 
+## Recommended Technical Training
 
 | Role | Recommended Training |
-|------|-------------| 
-| Technicians | Should complete the [GSA Approved Products List (APL)](https://www.idmanagement.gov/approved-products-list-pacs-products/){:target="_blank"} PACS product manufacturer certification training for the solution being implemented.| 
-| Operators | Should complete tailored training that reflects agency policies and procedures, their role within the agency, and the facility’s specific PACS configuration. Tailored training can be provided by Authorized Service Providers and/or by the agency. Operators can complete the [GSA APL](https://www.idmanagement.gov/approved-products-list-pacs-products/){:target="_blank"} PACS product manufacturer certification training for the solution being implemented.|
-|Engineers| Hold a current [Certified System Engineer ICAM PACS (CSEIP) certification](https://www.securetechalliance.org/activities-certified-system-engineer-icam-pacs-training-and-certification-program/){:target="_blank"}. This certification program provides the necessary training and a minimum assurance of ability to efficiently and effectively implement Public Key Infrastructure (PKI) and Identity and Credential Access Management (ICAM) architectures for PACS. Engineers can complete the [GSA APL](https://www.idmanagement.gov/approved-products-list-pacs-products/) PACS product manufacturer certification training for the solution being implemented.|
-|Architects| Should have familiarity with the specific [GSA APL](https://www.idmanagement.gov/approved-products-list-pacs-products/) PACS manufacturer solution being implemented and agency specific policy and procedure to make design recommendations. Architects should also have completed the [CSEIP certification](https://www.securetechalliance.org/activities-certified-system-engineer-icam-pacs-training-and-certification-program/){:target="_blank"} to implement Personal Identity Verification (PIV) authentication mechanisms. Additionally, globally recognized, vendor-neutral, information technology certifications provide Architects with added knowledge and experience related to environmental considerations that may impact the E-PACS.|
+|:------|:-------------| 
+|IT Architects| Must be knowledgeable about the [GSA PACS APL](https://www.idmanagement.gov/approved-products-list-pacs-products/) and the rers' solutions' for the E-PACS solution. Should be knowledgeable about Federal Government and agency-specific policies, standards, and guidance documents to make designer recommendations related to an E-PACS/PACS implementation. Architects must possess a current [CSEIP certification](https://www.securetechalliance.org/activities-certified-system-engineer-icam-pacs-training-and-certification-program/){:target="_blank"} or other similar, federally recognized certification in order to implement an E-PACS solution. Personal Identity Verification (PIV) authentication mechanisms. Well-recognized, vendor-neutral, IT certifications, as well as environmental considerations training, add additional expertise to an E-PACS project.|
+|Network Engineers| (Optional) May hold a [Certified System Engineer ICAM PACS (CSEIP) certification](https://www.securetechalliance.org/activities-certified-system-engineer-icam-pacs-training-and-certification-program/){:target="_blank"} or other similar, federally recognized certification. Engineers may optionally complete PACS products' manufacturers' training (i.e., PACS APL products) related to the E-PACS implementation. Should be knowledgeable about Federal Government and agency-specific policies, standards, and guidance documents related to enterprise networks and an E-PACS/PACS implementation. |
+| Technicians | Should complete PACS products' manufacturers' training (i.e., PACS APL products) related to the E-PACS solution implementation.| 
+| Operators | Should complete tailored training in Federal Government policies and standards related to E-PACS/PACS. Completing E-PACS/PACS products' manufacturers' (i.e., PACS APL products) certification related to the E-PACS implementation is recommended.|
 
-{% include alert-info.html content="Specific roles, responsibilities, and training requirements must be specified in the project’s SOW." %}
+{% include alert-info.html content="Agencies must specify their requirements for specific roles, responsibilities, and training their Request for Information (RFI) (i.e., request for contractor qualifications statements) and Statement of Work (SOW)." %}
 
 <br>
 
 ## Training Opportunities
 
-{% include alert-info.html content="Agency employees should consider these training opportunities when submitting their annual training plan and using their annual training budget." %}
+{% include alert-info.html content="Agencies that plan to initiate an E-PACS Project should include line items for related employee training in their annual training plans and annual training budgets." %}
 
 ### Equipment Manufacturers
-[GSA APL](https://www.idmanagement.gov/approved-products-list-pacs-products/){:target="_blank"} PACS manufacturers offer product-specific Operator and Technician courses through authorized service providers resulting in a manufacturer’s certification.
+[GSA PACS APL](https://www.idmanagement.gov/approved-products-list-pacs-products/){:target="_blank"} PACS manufacturers whose products are listed on the GSA PACS APL offer product-specific courses for Operators and Technicians directly through the manufacturer or through authorized service providers. Operators and Technicians may obtain certifications for completing some series of courses.
 
->**Note:** Manufacturer training may not address unique operational procedures or facility-specific configurations, so authorized service providers on [GSA Schedule 84](https://www.gsa.gov/buying-selling/purchasing-programs/gsa-schedules/list-of-gsa-schedules/schedule-84security-fire-law-enforcement){:target="_blank"}, and/or [GSA Schedule 70](https://www.gsa.gov/technology/technology-purchasing-programs/it-schedule-70){:target="_blank"} could conduct this training. 
+>**Note:** Manufacturer training may not address unique operational requirements or site-specific configurations, so authorized service providers should conduct this training:  [GSA Schedule 84](https://www.gsa.gov/buying-selling/purchasing-programs/gsa-schedules/list-of-gsa-schedules/schedule-84security-fire-law-enforcement){:target="_blank"}, and/or [GSA Schedule 70](https://www.gsa.gov/technology/technology-purchasing-programs/it-schedule-70){:target="_blank"}. 
 
 ### Authorized Service Providers
-Authorized service providers, found on [GSA Schedule 84](https://www.gsa.gov/buying-selling/purchasing-programs/gsa-schedules/list-of-gsa-schedules/schedule-84security-fire-law-enforcement){:target="_blank"}, and/or [GSA Schedule 70](https://www.gsa.gov/technology/technology-purchasing-programs/it-schedule-70){:target="_blank"}, offer manufacturer training for the installation, configuration, and maintenance of the E-PACS. This training can be tailored to your agency and facility, focusing on the features that have been implemented and how the system is configured to complement agency operational policies and procedures. This should be determined during the procurements phase (For detailed information, see [Procurements]({{site.baseurl}}/procure/){:target="_blank"}).
+Authorized service providers offer manufacturer training for installing, configuring, and maintaining PACS and E-PACS: [GSA Schedule 84](https://www.gsa.gov/buying-selling/purchasing-programs/gsa-schedules/list-of-gsa-schedules/schedule-84security-fire-law-enforcement){:target="_blank"} and [GSA Schedule 70](https://www.gsa.gov/technology/technology-purchasing-programs/it-schedule-70){:target="_blank"}. This training can be tailored to your agency, facility, implementation features, operational policies, and procedures. This training should be planned during the Procurements phase. 
 
 ### Industry Certifications
-Industry certifications are vendor neutral and standards-based training offerings that relate to E-PACS processes and functions. Available certifications include, but are not limited to:
+Industry certifications are vendor-neutral and standards-based. PACS/E-PACS-related certifications include, but are not limited to:
 
--	The **Secure Technology Alliance (STA)** offers three relevant certification programs:
-    1.	The [CSEIP program](https://www.securetechalliance.org/activities-certified-system-engineer-icam-pacs-training-and-certification-program/){:target="_blank"} trains those responsible for implementing mandates set by OMB M-05-24 and OMB M-06-18. GSA requires that all work performed on approved E-PACS for GSA managed facilities are installed by CSEIP professional.
-    2.	The [Certified Smart Card Industry Professional (CSCIP) program](https://www.securetechalliance.org/activities-leap-cscip/){:target="_blank"} trains those needing to know smart card technology fundamentals, security considerations, application and data management, and usage models.
-    3.	The [Certified Smart Card Industry Professional/Government (CSCIP/G) program](https://www.securetechalliance.org/activities-leap-cscip/){:target="_blank"} trains those needing to know FIPS 201, PIV Card and Federal identity management initiatives.
--	**ASIS International** offers two relevant certification programs:
-    1.	The [Certified Protection Professional (CPP) program](https://www.asisonline.org/certification/certified-protection-professional-cpp/){:target="_blank"}, for those who manage security programs.
-    2.	The [Physical Security Professional (PSP) program](https://www.asisonline.org/certification/physical-security-professional/psp-exam-domains-and-knowledge-statements/){:target="_blank"}, for those who design and implement physical protection systems.
--	The **Security Industry Association (SIA)** offers the [Certified Security Project Manager (CSPM) program](https://www.securityindustry.org/professional-development/cspm-certification/){:target="_blank"} for those who manage complex technical security projects. 
+-	The **Secure Technology Alliance (STA)** offers 3 relevant certifications:
+    1.	The [CSEIP Program](https://www.securetechalliance.org/activities-certified-system-engineer-icam-pacs-training-and-certification-program/){:target="_blank"} trains those who implement solutions related to OMB M-05-24, OMB M-11-11, and OMB M-06-18. GSA requires that all work performed on approved PACS/E-PACS for GSA-managed facilities must be designed and installed by a CSEIP.
+    2.	The [Certified Smart Card Industry Professional (CSCIP) Program](https://www.securetechalliance.org/activities-leap-cscip/){:target="_blank"} trains those who implement smart card technology. Training includes security considerations, application and data management, and usage models.
+    3.	The [Certified Smart Card Industry Professional/Government (CSCIP/G) Program](https://www.securetechalliance.org/activities-leap-cscip/){:target="_blank"} trains goverment and industry professionals who must understand FIPS 201-2, PIV Credential, and Federal ICAM initiatives.
+-	**ASIS International** offers 2 certification programs:
+    1.	The [Certified Protection Professional (CPP) Program](https://www.asisonline.org/certification/certified-protection-professional-cpp/){:target="_blank"} trains those who manage security programs.
+    2.	The [Physical Security Professional (PSP) Program](https://www.asisonline.org/certification/physical-security-professional/psp-exam-domains-and-knowledge-statements/){:target="_blank"} trains those who design and implement physical protection systems.
+-	The **Security Industry Association (SIA)** offers the [Certified Security Project Manager (CSPM) Program](https://www.securityindustry.org/professional-development/cspm-certification/){:target="_blank"} for those who manage complex technical security projects. 
 
-### GSA PACS Reverse Industry Training (2018)
+### GSA PACS Reverse Industry Day Conference (2018)
 
-Last year, GSA hosted a PACS reverse industry day training featuring speakers across industry and government. Videos from the event are listed below and offer lessons learned from a number of experts. Don't forget to visit the *[Lessons Learned]({{site.baseurl}}/lessonslearned/)* section to view additional lessons learned!
+In 2018, GSA hosted a _PACS Reverse Industry Day_ conference that featured government and industry experts on a range of PACS topics. Event videos are available via the GSA YouTube channel: 
 
-
-**Morning Session:**<br>
+* **Morning Session:**<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r9X1XtrLjMg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Afternoon Session:**<br>
+* **Afternoon Session:**<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bS8jdkW_WUI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
