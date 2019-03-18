@@ -85,12 +85,12 @@ Example: If 3 assets exist within a security area: one Low-risk, one Moderate-ri
 |:---------|:--------------------------:|:------------|
 |*Exclusion*| 3| Exclusion areas require the authentication factors:  Something you have (e.g., a PIV), Something you know (e.g., a PIN), and Something you are (e.g., a fingerprint or iris scan).|
 |*Limited* | 2 | Limited areas require 2 of the 3 authentication factors:  a PIV and PIN, a PIV and fingerprint or iris scan, or a PIN and fingerprint or iris scan.|
-|*Controlled* | 1 | Controlled areas require only one authentication factor:  a PIV, a PIN, or a fingerprint/iris scan. (There are currently no FICAM-approved, one-factor biometric readers.|  
+|*Controlled* | 1 | Controlled areas require only one authentication factor:  a PIV, a PIN, or a fingerprint/iris scan. (There are currently no FICAM-approved, one-factor biometric readers.)|  
   
 <br>
 <i class="fa fa-check-square-o"></i> &nbsp;**4. Select authentication mechanism** 
 
-- Based on the security area categories, authentication factors required for each security area, choose the PIV-credential authentication mechanisms that enforce these factors at each access point. 
+- Based on the security area categories, authentication factors required for each security area, choose the PIV-credential authentication mechanism(s) that enforce these factors at each access point. 
 
 {% include alert-info.html content="FIPS 201-2 defines authentication mechanisms at four assurance levels (Little or No, Some, High, and Very High)." %}
 
