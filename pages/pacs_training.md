@@ -51,3 +51,27 @@ E-PACS project teams consist of both agency employees and contractors. Technical
 >**Note:** Manufacturer training may not address unique operational requirements or site-specific configurations, so authorized service providers should conduct this training:  [GSA Schedule 84](https://www.gsa.gov/buying-selling/purchasing-programs/gsa-schedules/list-of-gsa-schedules/schedule-84security-fire-law-enforcement){:target="_blank"}, and/or [GSA Schedule 70](https://www.gsa.gov/technology/technology-purchasing-programs/it-schedule-70){:target="_blank"}. 
 
 
+### Authorized Service Providers
+Authorized service providers offer manufacturer training for installing, configuring, and maintaining PACS and E-PACS: [GSA Schedule 84](https://www.gsa.gov/buying-selling/purchasing-programs/gsa-schedules/list-of-gsa-schedules/schedule-84security-fire-law-enforcement){:target="_blank"} and [GSA Schedule 70](https://www.gsa.gov/technology/technology-purchasing-programs/it-schedule-70){:target="_blank"}. This training can be tailored to your agency, facility, implementation features, operational policies, and procedures. This training should be planned during the Procurements phase. 
+
+### Industry Certifications
+Industry certifications are vendor-neutral and standards-based. PACS/E-PACS-related certifications include, but are not limited to:
+
+-	The **Secure Technology Alliance (STA)** offers 3 relevant certifications:
+    1.	The [CSEIP Program](https://www.securetechalliance.org/activities-certified-system-engineer-icam-pacs-training-and-certification-program/){:target="_blank"} trains those who implement solutions related to OMB M-05-24, OMB M-11-11, and OMB M-06-18. GSA requires that all work performed on approved PACS/E-PACS for GSA-managed facilities must be designed and installed by a CSEIP.
+    2.	The [Certified Smart Card Industry Professional (CSCIP) Program](https://www.securetechalliance.org/activities-leap-cscip/){:target="_blank"} trains those who implement smart card technology. Training includes security considerations, application and data management, and usage models.
+    3.	The [Certified Smart Card Industry Professional/Government (CSCIP/G) Program](https://www.securetechalliance.org/activities-leap-cscip/){:target="_blank"} trains goverment and industry professionals who must understand FIPS 201-2, PIV Credential, and Federal ICAM initiatives.
+-	**ASIS International** offers 2 certification programs:
+    1.	The [Certified Protection Professional (CPP) Program](https://www.asisonline.org/certification/certified-protection-professional-cpp/){:target="_blank"} trains those who manage security programs.
+    2.	The [Physical Security Professional (PSP) Program](https://www.asisonline.org/certification/physical-security-professional/psp-exam-domains-and-knowledge-statements/){:target="_blank"} trains those who design and implement physical protection systems.
+-	The **Security Industry Association (SIA)** offers the [Certified Security Project Manager (CSPM) Program](https://www.securityindustry.org/professional-development/cspm-certification/){:target="_blank"} for those who manage complex technical security projects. 
+
+### GSA PACS Reverse Industry Day Conference (2018)
+
+In 2018, GSA hosted a _PACS Reverse Industry Day_ conference that featured government and industry experts on a range of PACS topics. Event videos are available via the GSA YouTube channel: 
+
+* **Morning Session:**<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r9X1XtrLjMg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+* **Afternoon Session:**<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bS8jdkW_WUI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
