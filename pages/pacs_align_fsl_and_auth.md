@@ -90,14 +90,9 @@ Example: If 3 assets exist within a security area: one Low-risk, one Moderate-ri
 <br>
 <i class="fa fa-check-square-o"></i> &nbsp;**4. Select authentication mechanism** 
 
-- Based on the security area categories, authentication factors required for each security area, choose the PIV-credential authentication mechanism(s) that enforce these factors at each access point. 
+- Based on the security area categories and required authentication factors required for each security area, choose the PIV-credential authentication mechanism(s) that enforce these factors at each access point. 
 
 {% include alert-info.html content="FIPS 201-2 defines authentication mechanisms at four assurance levels (Little or No, Some, High, and Very High)." %}
-
-PIV credentials contain identifiers and cryptographic data objects used for authentication. Identifiers may include:<br>
-- Federal Agency Smart Credential Number (FASC-N) (no longer recommended)
-- Global Unique ID (GUID)
-- Data objects (i.e., public and private keys or digital certificates)  
 
 FIPS 201-2 specifies these authentication mechanisms for PIV credentials:
 
