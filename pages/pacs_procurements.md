@@ -56,7 +56,7 @@ This page provides a sample E-PACS Procurements Checklist. You can reuse or tail
 -	What facility access risks exist? 
 -	How can the facility mitigate these risks? 
 -	What E-PACS installations does the facility need?
--	What supporting systems would be integrated into the facility's EPACS (e.g., intrusion detection, video-surveillance, emergency notification, elevator control)?
+-	What supporting systems would be integrated into the facility's E-PACS (e.g., intrusion detection, video-surveillance, emergency notification, elevator control)?
 -	What E-PACS integrator and other contractor services does the agency need to solicit bids on?
 -	What E-PACS hardware and software is needed (i.e., procurements from the GSA PACS APL, GSA Multiple Awards Schedules [MAS], Schedules 70 and 84)? 
 > **Note:** Your agency's selected integrator will help select the needed hardware and software through the GSA Acquisitions process (GSA PACS APL, MAS, Schedules 70 and 84, Blanket Purchase Orders, etc.).
@@ -102,7 +102,7 @@ This page provides a sample E-PACS Procurements Checklist. You can reuse or tail
 <i class="fa fa-check-square-o"></i> &nbsp;**13. Buy products from the [GSA PACS APL](https://www.idmanagement.gov/approved-products-list-pacs-products/){:target="_blank"} through the [GSA MAS](https://www.gsa.gov/buying-selling/purchasing-programs/gsa-schedules/schedules-news-and-updates){:target="_blank"}, [GSA Schedule 70]( https://www.gsa.gov/technology/technology-purchasing-programs/it-schedule-70){:target="_blank"}, and [GSA Schedule 84](https://www.gsa.gov/buying-selling/purchasing-programs/gsa-schedules/list-of-gsa-schedules/schedule-84security-fire-law-enforcement){:target="_blank"}**. 
 
 > **Note:**&nbsp;&nbsp;After contract award, your integrator will help you:
-- Choose the best E-PACS topology (i.e., an end-to-end solution of hardware, software, a Certificate Validation System, and PIV card readers) from the [GSA PACS APL](https://www.idmanagement.gov/approved-products-list-pacs-products/){:target="_blank"} for the PIV authentication mechanisms selected for your facility.  
+- Choose the best E-PACS topology (i.e., an end-to-end solution of hardware, software, a Certificate Validation System, and PIV credential readers) from the [GSA PACS APL](https://www.idmanagement.gov/approved-products-list-pacs-products/){:target="_blank"} for the PIV authentication mechanisms selected for your facility.  
 - Buy the products and additional services you need by using the GSA resources in Checklist item 13 above. Your chosen integrator will help your agency choose the right E-PACS products and services, according to your agency's preferred GSA purchasing vehicle(s). 
 
 >**Note:**&nbsp;&nbsp;Want to learn more about GSA Schedules? Training is available: [On-demand GSA Schedules Training](ww.gsa.gov/buying-selling/products-services/security-protection/training-for-security-protection){:target="_blank"}. For help with GSA Schedules, email the GSA National Customer Service Center at NCSCcustomer.service@gsa.gov or call 1-800-488-3111.
