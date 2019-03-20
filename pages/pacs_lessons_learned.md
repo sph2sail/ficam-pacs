@@ -4,7 +4,7 @@ title: Lessons Learned
 permalink: /lessonslearned/
 ---
 
-Federal agencies have shared these E-PACS procurement lessons learned:
+Federal agencies have shared these E-PACS lessons learned:
 
 ## Planning
 - Identify all stakeholders upfront, to include an Executive Sponsor.
