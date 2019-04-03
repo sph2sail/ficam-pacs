@@ -28,7 +28,7 @@ The core components that make up both PACS and E-PACS systems are defined below.
 
 | **PACS and<br>E-PACS Components** | **What Is This?** |
 |----------------|----------|
-| **1. Access point** | Entrance point where an employee or contractor contacts the PACS (e.g., reader). The access point also involves barriers, such as turnstiles, gates, locking doors, etc. |
+| **1. Access point** | Entrance point where an employee or contractor interacts with the PACS (e.g., reader). The access point also involves barriers, such as turnstiles, gates, locking doors, etc. |
 | **2. PIV credential** | [Personal Identity Verification (PIV) credentials](https://piv.idmanagement.gov/elements/){:target="_blank"} (i.e., PIV cards) are used by federal employees and contractors to *physically access* federal facilities and *logically access* federal information systems. Employees and contractors must be cleared at the security classification level of the facilities and information systems for which they request access. |
 | **3. Reader and keypad** | (Also called *card reader* and *credential reader.*) The reader provides power to and reads data from a PIV credential. The reader also sends this data to a PACS or E-PACS control panel/component (also called *controller* and *panel*) to authenticate the PIV credential and request access authorization. Employees and contractors may need to enter a PIN into the keypad and may need to add a biometric, depending on the facility's security classification and risk levels. | 
 | **4. Biometric reader** | Captures biometric data (e.g., fingerprint or iris scan) and verifies it against the PIV credential's biometric data. |
