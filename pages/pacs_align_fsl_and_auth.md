@@ -4,11 +4,11 @@ title: Aligning Facility Security Level (FSL) and Authentication
 permalink: /alignfslandauth/
 ---
 
-Federal agencies rely on PACS and PIV credentials to confirm that an employee, contractor, or visitor _is_ or _is not_ authorized to access a site and its critical assets (systems, information, people, etc.). 
+Federal agencies rely on PACS/E-PACS and PIV credentials to confirm that an employee, contractor, or visitor _is_ or _is not_ authorized to access a site and its critical assets (systems, information, people, etc.). 
 
 To ensure that your agency's critical assets are protected, you will need to assess each site's risk level (called *Facility Security Level*) and decide what level of PIV-credential authentication is required (called *authentication mechanism*). 
 
-For agencies planning to procure an E-PACS, the FSL and Authentication checklist below will help you:
+The FSL and Authentication checklist below will help you:
 
 - Assess Facility Security Level (FSL)
 - Categorize security areas
@@ -23,8 +23,8 @@ For agencies planning to procure an E-PACS, the FSL and Authentication checklist
 
 - Inventory critical assets for each agency site.
     - When you inventory critical assets, also document any challenges to securing them.  <br><br>Examples of critical assets are:
-        - Information systems and IT infrastructure
         - People
+        - Information systems and IT infrastructure
         - Campus, building, secure vaults, armory, etc.
         - Tenant agencies' information systems, IT infrastructure, and people
   
@@ -83,7 +83,7 @@ Example: If 3 assets exist within a security area: one Low-risk, one Moderate-ri
 
 | Category| Minimum Number of Factors | Description|
 |:---------|:--------------------------:|:------------|
-|*Exclusion*| 3| Exclusion areas require the authentication factors:  Something you have (e.g., a PIV), Something you know (e.g., a PIN), and Something you are (e.g., a fingerprint or iris scan).|
+|*Exclusion*| 3| Exclusion areas require all three authentication factors:  Something you have (e.g., a PIV), Something you know (e.g., a PIN), and Something you are (e.g., a fingerprint or iris scan).|
 |*Limited* | 2 | Limited areas require 2 of the 3 authentication factors:  a PIV and PIN, a PIV and fingerprint or iris scan, or a PIN and fingerprint or iris scan.|
 |*Controlled* | 1 | Controlled areas require only one authentication factor:  a PIV, a PIN, or a fingerprint/iris scan. (There are currently no FICAM-approved, one-factor biometric readers.)|  
   
@@ -95,6 +95,8 @@ Example: If 3 assets exist within a security area: one Low-risk, one Moderate-ri
 {% include alert-info.html content="FIPS 201-2 defines authentication mechanisms at four assurance levels (Little or No, Some, High, and Very High)." %}
 
 FIPS 201-2 specifies these authentication mechanisms for PIV credentials:
+
+{% include alert-info.html content="Check out the Glossary if you're unfamiliar with the the technical terms below." %}
 
 - PKI authentication using the PIV Authentication Certificate (PKI-AUTH)
 - PKI authentication using the Card Authentication Certificate (PKI-CAK)
@@ -114,5 +116,5 @@ The table below gives the possible authentication mechanisms for the 3 security 
 
 > **Note:** When using PKI-CAK and PKI-AUTH as authentication mechanisms, certificates must be validated. Verify the certificate against a Certificate Revocation List (CRL) or Online Certificate Status Protocol (OCSP) server response. Also, verify that the certificate chains to the Federal Common Policy root certification authority (CA).
 
-The next section, *[Procurements]({{site.baseurl}}/procure/)*, describes the processes and resources needed for an E-PACS procurement.
+The next section, *[Procurements]({{site.baseurl}}/procure/)*, describes the processes and resources needed for a PACS/E-PACS procurement.
 
