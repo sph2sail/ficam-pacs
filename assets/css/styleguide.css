@@ -1490,6 +1490,14 @@ ul, ol {
 h1 + ul, h1 + ol, h2 + ul, h2 + ol, h3 + ul, h3 + ol, h4 + ul, h4 + ol, h5 + ul, h5 + ol, h6 + ul, h6 + ol, p + ul, p + ol {
   margin-top: 0; }
 
+h2:before {
+content: "";
+display: block;
+padding-top: 125px;
+margin-top: -100px;
+
+}
+  
 ul, ol {
   list-style: none;
   /* padding-left: 0; JP 2-6-2017 */
