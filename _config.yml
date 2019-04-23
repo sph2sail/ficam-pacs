@@ -59,8 +59,8 @@ navigation:
   url: ''
   internal: true
   coll: false
-- text: Enterprise Physical Access Control Systems
-  url: enterprisepacs/
+- text: Types of Physical Access <br>Control Systems
+  url: pacs/
   internal: true
   coll: false
 - text: Aligning Facility Security Level and Authentication
