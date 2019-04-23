@@ -4,7 +4,7 @@ title: Training
 permalink: /train/
 ---
 
-{% include alert-info.html content="Consider the use of \"PACS\" and \"E-PACS\" interchangeable in this section." %}
+{% include alert-info.html content="\"PACS\" and \"E-PACS\" are used interchangeably in this section." %}
 
 Specialized training is essential for Physical Access Control System (PACS) technical leads and team members. This page describes roles, responsibilities, and training opportunities. 
 

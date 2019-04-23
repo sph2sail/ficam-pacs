@@ -17,7 +17,7 @@ The FSL and Authentication checklist below will help you:
 
 ## Assess Facility Security Level
 
-{% include alert-info.html content="These federal standards give the guidance for assessing FSL, including how to categorize site risks:<br> - <a href=\"https://www.dhs.gov/publication/isc-risk-management-process\" target=\"_blank\">The Risk Management Process for Federal Facilities: An Interagency Security Committee Standard </a> <br> - <a href=\"https://csrc.nist.gov/publications/detail/sp/800-116/rev-1/final\" target=\"_blank\">NIST SP 800-116, Revision 1, Guidelines for the Use of PIV Credentials in Facility Access. </a>" %}
+{% include alert-info.html content="These federal standards give guidance for assessing FSL, including how to categorize site risks:<br> - <a href=\"https://www.dhs.gov/publication/isc-risk-management-process\" target=\"_blank\">The Risk Management Process for Federal Facilities: An Interagency Security Committee Standard </a> <br> - <a href=\"https://csrc.nist.gov/publications/detail/sp/800-116/rev-1/final\" target=\"_blank\">NIST SP 800-116, Revision 1, Guidelines for the Use of PIV Credentials in Facility Access. </a>" %}
 
 <i class="fa fa-check-square-o"></i> &nbsp;**Inventory critical assets for each agency site**
 - When you inventory critical assets, also document any challenges to securing them.  <br><br>Examples of critical assets are:
@@ -75,7 +75,7 @@ The FSL and Authentication checklist below will help you:
 |:---------|:------------|
 | *Exclusion*| An area where uncontrolled movement would permit direct access to a security asset.|
 | *Limited* | An area near a secure asset.  Uncontrolled movement within a limited area may permit access to an asset.  Escorts and other restrictions can prevent access.| 
-|*Controlled* | An area near or surrounding a Limited or Exclusion area. A Controlled area provides administrative control, safety, or a buffer zone for embedded Limited or Exclusion areas.  Movement of authorized personnel within this area is normally not controlled, as this area doesn't provide immediate access to secure assets.  |
+|*Controlled* | An area near or surrounding a Limited or Exclusion area. A Controlled area provides administrative control, safety, or a buffer zone for embedded Limited or Exclusion areas.  Movement of authorized personnel within this area usually is not controlled, as this area doesn't provide immediate access to secure assets.  |
 
 - Assign the same risk level as the highest risk asset within the area. 
     - Example: If three (3) assets exist within a security area: one Low-risk, one Moderate-risk, and one High-risk, you must categorize the security area as **High-risk**.  Alternatively, the area may be split into three (3) security areas that each have a different risk level.  
@@ -85,7 +85,7 @@ The FSL and Authentication checklist below will help you:
 
 ## Determine Authentication Factors
 
-{% include alert-info.html content="<a href=\"https://csrc.nist.gov/publications/detail/sp/800-116/rev-1/final\" target=\"_blank\">NIST SP 800-116, Revision 1, Guidelines for the Use of PIV Credentials in Facility Access</a> recommends the following method to determine authentication factors for exclusion, limited, and controlled security areas." %}
+{% include alert-info.html content="<a href=\"https://csrc.nist.gov/publications/detail/sp/800-116/rev-1/final\" target=\"_blank\">NIST SP 800-116, Revision 1, Guidelines for the Use of PIV Credentials in Facility Access</a> recommends the following method to determine authentication factors for exclusion, limited and controlled security areas." %}
 
 <i class="fa fa-check-square-o"></i> &nbsp;**Determine authentication factors required for security area categories** 
 

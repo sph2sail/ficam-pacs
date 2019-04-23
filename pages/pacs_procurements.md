@@ -55,8 +55,8 @@ This page provides a sample PACS/E-PACS Procurements Checklist. You can reuse or
     -	What facility access risks exist? 
     -	How can the facility mitigate these risks? 
     -	What PACS/E-PACS installations does the facility need?
-    -	What supporting systems would be integrated into the facility's PACS/E-PACS (e.g., intrusion detection, video-surveillance, emergency notification, elevator control)?
-    -	What PACS/E-PACS integrator and other contractor services does the agency need to solicit bids on?
+    -	What support systems would be integrated into the facility's PACS/E-PACS (e.g., intrusion detection, video surveillance, emergency notification, elevator control)?
+    -	What PACS/E-PACS integrator or other contractor services does the agency need to solicit bids on?
     -	What PACS/E-PACS hardware and software is needed? 
 	
  -  Your agency's selected integrator will help select the approved, needed hardware and software through the GSA Acquisitions process (Schedules 70 and 84, Blanket Purchase Orders, etc.). Useful considerations: <br>
@@ -76,7 +76,7 @@ This page provides a sample PACS/E-PACS Procurements Checklist. You can reuse or
 - Organize requirements into clear categories (e.g., technical, performance, and operational) to help stakeholder's give targeted feedback.
 
 <i class="fa fa-check-square-o"></i> &nbsp;**8. Release a Request for Information (RFI) to potential service providers**
-- Create and issue an RFI to vendors that requests detailed qualifications and capabilities against PACS/E-PACS requirements.
+- Create and issue an RFI to vendors that requests specific qualifications and capabilities against PACS/E-PACS requirements.
 
 <i class="fa fa-check-square-o"></i> &nbsp;**9. Submit an IT funding proposal following your agency's budgetary process**
 
@@ -121,5 +121,5 @@ This page provides a sample PACS/E-PACS Procurements Checklist. You can reuse or
 - [GSA’s eBuy](https://www.ebuy.gsa.gov/ebuy/){:target="_blank"} RFQ online system enables you to post requirements, obtain quotes, and issue orders electronically. 
 - Approved [Certified System Engineer ICAM PACS (CSEIP) List]( https://www.securetechalliance.org/activities-cseip-registry/){:target="_blank"}.  Agencies must use FIPS 201-approved integrators and other contractors. The "lead designer" for FIPS 201-approved integrators must possess a Certified System Engineer ICAM PACS (CSEIP) certification or be certified by another federally recognized certification program.    
 
-The next section, *[Training]({{site.baseurl}}/train/)*, outlines PACS/E-PACS personnel roles and responsibilities, and lists relevant training and certification programs.
+The next section, *[Training]({{site.baseurl}}/train/)*, outlines PACS/E-PACS personnel roles and responsibilities and lists relevant training and certification programs.
 

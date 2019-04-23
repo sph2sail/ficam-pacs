@@ -4,7 +4,7 @@ title: Lessons Learned
 permalink: /lessonslearned/
 ---
 
-{% include alert-info.html content="Consider the use of \"PACS\" and \"E-PACS\" interchangeable in this section." %}
+{% include alert-info.html content="\"PACS\" and \"E-PACS\" are used interchangeably in this section." %}
 
 Federal agencies have shared these PACS lessons learned:
 

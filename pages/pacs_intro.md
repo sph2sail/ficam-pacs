@@ -10,7 +10,7 @@ In the simplest terms, a PACS is a *standalone* system that controls physical ac
 
 To learn more:
 
-1. [Enterprise Physical Access Control Systems]({{site.baseurl}}/enterprisepacs/)
+1. [Types of Physical Access Control Systems]({{site.baseurl}}/pacs/)
 1. [Aligning Facility Security Level and Authentication]({{site.baseurl}}/alignfslandauth/)
 1. [Procurement]({{site.baseurl}}/procure/)
 1. [Training]({{site.baseurl}}/train/)

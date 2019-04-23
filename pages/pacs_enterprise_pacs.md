@@ -73,7 +73,8 @@ Characteristics of NIST SP 800-116 compliant systems include, but are not limite
 - Use high-assurance credentials for electronic authentication of employees and contractors
 - Use non-deprecated authentication mechanisms, as defined by [FIPS 201-2](https://csrc.nist.gov/publications/detail/fips/201/2/final){:target="_blank"}
 - Validate the status and authenticity of credentials
-- Interoperable with PIV credentials issued by other agencies
+- Interoperate with PIV credentials issued by other agencies
+- Use components listed on the GSA FIPS 201 Approved Products List (APL)
 	
 The next section, *[Aligning Facility Security Level (FSL) and Authentication]({{site.baseurl}}/alignfslandauth/)*, explains the processes needed to prepare for a PACS/E-PACS deployment and offers more detail related to the FIPS 201-approved PIV authentication mechanisms.
 
