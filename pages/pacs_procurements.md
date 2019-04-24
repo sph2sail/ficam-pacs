@@ -9,9 +9,9 @@ permalink: /procure/
 This page provides a sample PACS/E-PACS Procurements Checklist. You can reuse or tailor this checklist according to your agency’s practices.
 
 ## PACS/E-PACS Procurement Checklist 
-<i class="fa fa-check-square-o"></i> &nbsp;**1. Identify agency's need to procure a PACS/E-PACS**
+<i class="fa fa-check-square-o"></i> &nbsp;**1. Identify agency's need to procure or upgrade a PACS/E-PACS**
 - Determine whether your agency has a similar effort underway or other projects that could impact the procurement.
-- Determine why the agency needs to procure a PACS/E-PACS. 
+- Determine why the agency needs to procure or upgrade a PACS/E-PACS. 
 - Perform a cost-benefit analysis. 
 
 <i class="fa fa-check-square-o"></i> &nbsp;**2. Develop a PACS/E-PACS project charter** 
