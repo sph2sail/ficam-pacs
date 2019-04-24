@@ -80,8 +80,6 @@ The FSL and Authentication checklist below will help you:
 - Assign the same risk level as the highest risk asset within the area. 
     - Example: If three (3) assets exist within a security area: one Low-risk, one Moderate-risk, and one High-risk, you must categorize the security area as **High-risk**.  Alternatively, the area may be split into three (3) security areas that each have a different risk level.  
 
-{% include alert-info.html content="Each agency should determine the security measures required to protect their assets.  For example, an agency may categorize a security area with High-risk assets as a Limited security area and accept the associated risks." %}	
-
 
 ## Determine Authentication Factors
 
