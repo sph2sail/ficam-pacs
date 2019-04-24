@@ -46,7 +46,7 @@ This page provides a sample PACS/E-PACS Procurements Checklist. You can reuse or
 - Use automated tools or agency software to create a project schedule (i.e., project tasks, dependencies, durations, and resources).
 - Share the project schedule with stakeholders to ensure its accuracy and completeness.
 
-<i class="fa fa-check-square-o"></i> &nbsp;**6. Conduct a Facility Security Level (FSL) assessment of project-related agency sites and determine a Personal Identity Verification (PIV) authentication mechanism for each site**
+<i class="fa fa-check-square-o"></i> &nbsp;**6. Conduct a Facility Security Level (FSL) assessment of project-related agency sites and determine Personal Identity Verification (PIV) authentication mechanisms for each site**
  - For details, see [Aligning FSL and Authentication Mechanism]({{site.baseurl}}/alignfslandauth/){:target="_blank"}.
  - The FSL assessment and chosen PIV authentication mechanisms will form the basis for the PACS/E-PACS requirements document/specification, as well as affect the SOW and project costs.
  - The sample survey questions below will help you assess the FSL of each facility and select the right PIV authentication mechanisms: <br>
