@@ -4,7 +4,7 @@ title: Types of Physical Access Control Systems
 permalink: /pacs/
 ---
 
-This page will give you a basic understanding of both Physical Access Control Systems (PACSs) and Enterprise Physical Access Control Systems (E-PACSs). 
+This page will give you a basic understanding of Physical Access Control Systems (PACSs) and Enterprise Physical Access Control Systems (E-PACSs). 
 
 - [What Is a Physical Access Control System?](#what-is-a-physical-access-control-system)
 - [What Is an Enterprise Physical Access Control System?](#what-is-an-enterprise-pacs)
@@ -14,7 +14,7 @@ This page will give you a basic understanding of both Physical Access Control Sy
 
 ## What Is a Physical Access Control System?
 
-An agency's standalone PACS grants access to employees and contractors who work at or visit one site by authenticating their PIV credentials. Each PACS is managed locally by one site and is not connected to the agency’s enterprise network. 
+An agency's standalone PACS grants access to employees and contractors who work at or visit one site by authenticating their PIV credentials. Each PACS is managed locally and is not connected to the agency’s enterprise network. 
 
 Common PACS components are defined below: 
 

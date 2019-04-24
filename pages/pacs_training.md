@@ -40,7 +40,7 @@ PACS project teams consist of both agency employees and contractors. Teams inclu
 | Technicians | Should complete PACS products' manufacturers' training (i.e., PACS APL products) related to the PACS solution implementation.| 
 | Operators | Should complete tailored training in Federal Government policies and standards related to PACS. Completing PACS products' manufacturers' (i.e., PACS APL products) certification related to the PACS implementation is recommended.|
 
-{% include alert-info.html content="Agencies must specify their requirements for specific roles, responsibilities, and training their Request for Information (RFI) (i.e., request for contractor qualifications statements) and Statement of Work (SOW)." %}
+{% include alert-info.html content="Agencies must specify their requirements for specific roles, responsibilities, and training in their Request for Information (RFI) (i.e., request for contractor qualifications statements) and Statement of Work (SOW)." %}
 
 
 ## Training Opportunities
@@ -54,7 +54,7 @@ PACS project teams consist of both agency employees and contractors. Teams inclu
 
 
 ### Authorized Service Providers
-Authorized service providers offer manufacturer training for installing, configuring, and maintaining PACS: [GSA Schedule 84](https://www.gsa.gov/buying-selling/purchasing-programs/gsa-schedules/list-of-gsa-schedules/schedule-84security-fire-law-enforcement){:target="_blank"} and [GSA Schedule 70](https://www.gsa.gov/technology/technology-purchasing-programs/it-schedule-70){:target="_blank"}. This training can be tailored to your agency, facility, implementation features, operational policies, and procedures. This training should be planned during the Procurements phase. 
+Authorized service providers offer manufacturer training for installing, configuring, and maintaining PACSs: [GSA Schedule 84](https://www.gsa.gov/buying-selling/purchasing-programs/gsa-schedules/list-of-gsa-schedules/schedule-84security-fire-law-enforcement){:target="_blank"} and [GSA Schedule 70](https://www.gsa.gov/technology/technology-purchasing-programs/it-schedule-70){:target="_blank"}. This training can be tailored to your agency, facility, implementation features, operational policies, and procedures. This training should be planned during the Procurements phase. 
 
 ### Industry Certifications
 Industry certifications are vendor-neutral and standards-based. GSA requires that all work performed on approved PACS for GSA-managed facilities must be designed and installed by a Certified System Engineer for ICAM PACS (CSEIP).  The [CSEIP Program](https://www.securetechalliance.org/activities-certified-system-engineer-icam-pacs-training-and-certification-program/){:target="_blank"} trains those who implement solutions related to OMB M-05-24, OMB M-11-11, and OMB M-06-18.

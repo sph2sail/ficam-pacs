@@ -39,7 +39,7 @@ Federal agencies have shared these PACS lessons learned:
 
 ## Operations
 - Ensure the PACS is configured and maintained to operate in FICAM Mode. 
-- Work with your IT Department to ensure your PACS can perform online certificate validation.- If your PACS is limited to offline certificate validation, manually load CRLs and certificate trust lists into the PACS daily.
+- Work with your IT Department to ensure your PACS can perform online certificate validation. If your PACS is limited to offline certificate validation, manually load CRLs and certificate trust lists into the PACS daily.
 - Provision only assured identities from an agency authoritative source into your PACS.
 - For any PIV credential that becomes invalid (expired, certificates placed on CRL, etc.), the PACS administrator may wish to disable the credential in the PACS immediately, rather than waiting for it to happen automatically through the routine credential validation process.  Consider disabling identity and credential records rather than removing them to retain audit data that might be needed at a later time (e.g., employee misconduct investigation).
 - To protect privacy, remove all PII from PACS endpoints.

@@ -6,7 +6,7 @@ permalink: /
 
 This _Physical Access Control System (PACS) Guide_ will help you understand concepts related to _Federal Identity, Credential, and Access Management_-compliant PACSs and Enterprise Physical Access Control Systems (E-PACSs). 
 
-In the simplest terms, a PACS is a *standalone* system that controls physical access at one federal agency site by authenticating employees and contractors. An E-PACS extends the concept of a PACS to instead act as a unified,  *enterprise-wide* system that controls physical access at most (or all) sites that belong to an agency. 
+In the simplest terms, a PACS is a *standalone* system that controls physical access at one federal agency site by authenticating employees and contractors. An E-PACS extends the concept of a PACS to instead act as a unified, *enterprise-wide* system that controls physical access at most (or all) sites that belong to an agency. 
 
 To learn more:
 
@@ -16,6 +16,7 @@ To learn more:
 1. [Training]({{site.baseurl}}/train/)
 1. [Lessons Learned]({{site.baseurl}}/lessonslearned/)
 1. [Standards, Policies, and Guidance]({{site.baseurl}}/standards/)
+1. [Glossary]({{site.baseurl}}/glossary/)
 
 ## Questions and Contributions
 This guide is open source and a _work in progress_, and we [welcome contributions]({{site.baseurl}}/contribute/) from our colleagues. Some topics may still be under development. If you have questions, please review the [GitHub Issues]({{ site.repo_url }}/issues) for in-progress information. If you would like to contribute or add a question, create a new [Issue]({{ site.repo_url }}/issues) or add a comment to an existing one. 

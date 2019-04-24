@@ -85,7 +85,7 @@ The FSL and Authentication checklist below will help you:
 
 ## Determine Authentication Factors
 
-{% include alert-info.html content="<a href=\"https://csrc.nist.gov/publications/detail/sp/800-116/rev-1/final\" target=\"_blank\">NIST SP 800-116, Revision 1, Guidelines for the Use of PIV Credentials in Facility Access</a> recommends the following method to determine authentication factors for exclusion, limited and controlled security areas." %}
+{% include alert-info.html content="<a href=\"https://csrc.nist.gov/publications/detail/sp/800-116/rev-1/final\" target=\"_blank\">NIST SP 800-116, Revision 1, Guidelines for the Use of PIV Credentials in Facility Access</a> recommends the following method to determine authentication factors for Exclusion, Limited and Controlled security areas." %}
 
 <i class="fa fa-check-square-o"></i> &nbsp;**Determine authentication factors required for security area categories** 
 

@@ -48,12 +48,12 @@ A measurable, physical characteristic or personal behavioral trait used to recog
 
 ### BIO
 
-A [FIPS 201](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.201-2.pdf){:target="_blank"} authentication mechanism that is implemented by using a fingerprint or iris images data object sent from the PIV Card to the PACS and which is matched to the cardholder’s live scan.
+A [FIPS 201](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.201-2.pdf){:target="_blank"} authentication mechanism that is implemented by using a fingerprint or iris images data object sent from the PIV credential to the PACS and which is matched to the cardholder’s live scan.
 
 
 ### BIO-A
 
-A [FIPS 201](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.201-2.pdf){:target="_blank"} authentication mechanism in which the BIO authentication mechanism is performed in the presence of an attendant who supervises the use of the PIV Card and the submission of the PIN and the sample biometric by the cardholder.
+A [FIPS 201](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.201-2.pdf){:target="_blank"} authentication mechanism in which the BIO authentication mechanism is performed in the presence of an attendant who supervises the use of the PIV credential and the submission of the PIN and the sample biometric by the cardholder.
 
 
 ### BIO(-A)
@@ -68,7 +68,7 @@ A collection of information about a person, attested to by an issuing authority.
 
 ### Credential Validation
 
-The process of determining if a credential is valid, i.e., it was legitimately issued, its activation date has been reached, it has not expired, it has not been tampered with, and it has not been revoked, suspended, or revoked by the issuing authority.
+The process of determining if a credential is valid, i.e., it was legitimately issued, its activation date has been reached, it has not expired, it has not been tampered with, and it has not been suspended or revoked by the issuing authority.
 
 
 ### Certificate Revocation List 
