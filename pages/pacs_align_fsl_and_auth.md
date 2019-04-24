@@ -115,7 +115,7 @@ The FSL and Authentication checklist below will help you:
     - Authentication using on-card biometric comparisons [(OCC-AUTH)]({{site.baseurl}}/glossary/#occ-auth){:target="_blank"} 
 
 
-The table below gives the possible authentication mechanisms for the three (3) security area categories:
+The table below gives the possible authentication mechanisms for the three (3) security area categories defined by NIST SP 800-116, Revision 1:
 
 | Category  | Minimum<br>Number of<br>Factors | Acceptable Factors | Authentication<br>Mechanism:<br>Contact Interface  |  Authentication Mechanism:<br>Contactless Interface |
 | :-------- | :------: | :----- | :-----  | :-----     |
