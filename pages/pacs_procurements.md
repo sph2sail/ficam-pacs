@@ -8,7 +8,7 @@ permalink: /procure/
 
 This page provides a sample PACS/E-PACS Procurement Checklist. You can reuse or tailor this checklist according to your agency’s practices. The checklist highlights common procurement activities as they relate to the following roles:
 - Information Technology or Physical Security Engineers (IT)
-- Project Managers (PM),
+- Project Managers (PM)
 - Procurement Officers (PO)
 - Chief Information Officers (CIO)
 - Chief Security Officers (CSO)
