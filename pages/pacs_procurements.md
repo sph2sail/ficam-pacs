@@ -13,7 +13,7 @@ This page provides a sample PACS/E-PACS Procurements Checklist. You can reuse or
 - Chief Information Officers (CIO)
 - Chief Security Officers (CSO)
 
-Participants are recommended to be involved in activities where their role is listed in blue, bold font.
+Agency staff should be encouraged to participate in steps where their role is listed in blue, bold font.
 
 ## PACS/E-PACS Procurement Checklist 
 
