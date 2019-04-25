@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Procurements
-permalink: /procure_table/
+permalink: /procure/
 ---
 
 {% include alert-info.html content="A good starting point that will help you understand Physical Access Control System procurements is GSA’s <a href=\"https://www.gsa.gov/cdnstatic/General_Supplies__Services/Guide_to_PACS_v2%2006-12-2018.pdf\" target=\"_blank\">PACS Customer Ordering Guide. </a>" %}
