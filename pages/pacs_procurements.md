@@ -6,8 +6,14 @@ permalink: /procure/
 
 {% include alert-info.html content="A good starting point that will help you understand Physical Access Control System procurements is GSA’s <a href=\"https://www.gsa.gov/cdnstatic/General_Supplies__Services/Guide_to_PACS_v2%2006-12-2018.pdf\" target=\"_blank\">PACS Customer Ordering Guide. </a>" %}
 
-This page provides a sample PACS/E-PACS Procurements Checklist. You can reuse or tailor this checklist according to your agency’s practices.
+This page provides a sample PACS/E-PACS Procurements Checklist. You can reuse or tailor this checklist according to your agency’s practices. The checklist highlights common procurement activities as they relate to the following roles:
+- Information Technology or Physical Security Engineers (IT)
+- Project Managers (PM),
+- Procurement Officers (PO)
+- Chief Information Officers (CIO)
+- Chief Security Officers (CSO)
 
+Participants are recommended to be involved in activities where their role is listed in blue, bold font.
 
 ## PACS/E-PACS Procurement Checklist 
 
