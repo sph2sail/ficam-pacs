@@ -1,3 +1,8 @@
+---
+layout: default
+permalink: /pdf/
+---
+
 {% include pacs_intro.md %}
 <br><br>
 {% include pacs_enterprise_pacs.md %}
