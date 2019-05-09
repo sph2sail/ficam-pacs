@@ -3,18 +3,18 @@ layout: default
 permalink: /pdf/
 ---
 
-{% include pacs_intro.md %}
+{% include_relative pacs_intro.md %}
 <br><br>
-{% include pacs_enterprise_pacs.md %}
+{% include_relative pacs_enterprise_pacs.md %}
 <br><br>
-{% include pacs_align_fsl_and_auth.md	%}
+{% include_relative pacs_align_fsl_and_auth.md	%}
 <br><br>
-{% include pacs_procurements.md	%}
+{% include_relative pacs_procurements.md	%}
 <br><br>
-{% include pacs_training.md %}
+{% include_relative pacs_training.md %}
 <br><br>
-{% include pacs_lessons_learned.md %}
+{% include_relative pacs_lessons_learned.md %}
 <br><br>
-{% include pacs_standards_policies.md %}
+{% include_relative pacs_standards_policies.md %}
 <br><br>
-{% include pacs_glossary.md	%}
+{% include_relative pacs_glossary.md	%}
