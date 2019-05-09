@@ -25,6 +25,8 @@ This guide is open source and a _work in progress_, and we [welcome contribution
 ## Acknowledgment
 We'd like to thank the Secure Technology Alliance, especially the members of the Access Control Council, for contributions to the *PACS Playbook* and permission to reuse content from their presentations and the "How to Plan, Procure and Deploy a PIV-Enabled Physical Access Control System" webinar training.  
 
+<br><br>
+
 # Types of Physical Access Control Systems
 
 This page will give you a basic understanding of Physical Access Control Systems (PACSs) and Enterprise Physical Access Control Systems (E-PACSs). 
@@ -101,6 +103,8 @@ Characteristics of NIST SP 800-116 compliant systems include, but are not limite
 - Use components listed on the GSA FIPS 201 Approved Products List (APL)
 	
 The next section, *[Aligning Facility Security Level (FSL) and Authentication]({{site.baseurl}}/alignfslandauth/)*, explains the processes needed to prepare for a PACS/E-PACS deployment and offers more detail related to the FIPS 201-approved PIV authentication mechanisms.
+
+<br><br>
 
 # Aligning Facility Security Level (FSL) and Authentication
 
@@ -227,6 +231,8 @@ The table below gives the possible authentication mechanisms for the three (3) s
 <br>
 
 The next section, *[Procurements]({{site.baseurl}}/procure/)*, describes the processes and resources needed for a PACS/E-PACS procurement.
+
+<br><br>
 
 # Procurements
 
@@ -567,6 +573,8 @@ Agency staff should be encouraged to participate in steps where their role is li
 
 The next section, *[Training]({{site.baseurl}}/train/)*, outlines PACS/E-PACS personnel roles and responsibilities and lists relevant training and certification programs.
 
+<br><br>
+
 # Training
 
 
@@ -639,6 +647,8 @@ In 2018, GSA hosted a _PACS Reverse Industry Day_ conference that featured gover
 * **Afternoon Session:**<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bS8jdkW_WUI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br><br>
+
 # Lessons Learned
 
 {% include alert-info.html content="\"PACS\" and \"E-PACS\" are used interchangeably in this section." %}
@@ -688,6 +698,8 @@ Federal agencies have shared these PACS lessons learned:
 - Provide role-specific training to agency stakeholders (e.g., HR, IT, Security).
 
 The next section, [Standards, Policies, and Guidance]({{site.baseurl}}/standards/) lists relevant public law, policies, regulations, standards, guidance, and publications relevant to PACS/E-PACS.
+
+<br><br>
 
 # Glossary
 
